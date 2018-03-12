@@ -3,4 +3,7 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="transition_name">transitionName</string>
+    <string name="transition_age">transitionAge</string>
+    <string name="transition_gender">transitionGender</string>
 </resources>
